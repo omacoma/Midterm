@@ -1,0 +1,6 @@
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\bin\Debug\mid3.exe.config
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\bin\Debug\mid3.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\bin\Debug\mid3.pdb
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\obj\Debug\mid3.csprojResolveAssemblyReference.cache
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\obj\Debug\mid3.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Midterm\mid3\mid3\obj\Debug\mid3.pdb
